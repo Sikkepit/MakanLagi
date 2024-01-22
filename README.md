@@ -5,6 +5,3 @@ Website for an Indonesian Restaurant that uses Bootstrap, HTML, Javascript and P
 
 ![image](https://github.com/Sikkepit/MakanLagi/assets/148398668/ba52e975-1d32-42b5-85d9-c520c3a1e64a)
 
-![image](https://github.com/Sikkepit/MakanLagi/assets/148398668/265683e7-d126-427c-96eb-d0b6c0cfa16c)
-
-
