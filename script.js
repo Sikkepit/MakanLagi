@@ -32,7 +32,6 @@ function addDetailsToItems(id) {
         addButton.innerHTML = convertToCurrency(menus[id]['Price']);
 
         document.getElementById('overlay-item-name').innerHTML = menus[id]['Name'];
-        // document.getElementById('overlay-item-desc').innerHTML = menus[id]['Description'];
         document.getElementById('overlay-item-desc').innerHTML = "Stel uw menu samen:";
 
         overlayItemBasis.innerHTML = "";
